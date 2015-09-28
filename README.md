@@ -3,6 +3,8 @@ sublime-artisan
 
 Sublime Text plugin for Laravel Artisan commands
 
+>This project is no longer maintained.
+
 This plugin allows you the run the normal Artisan CLI using the Sublime Text interface, without having to open and use the command line.
 
 Options Available:
